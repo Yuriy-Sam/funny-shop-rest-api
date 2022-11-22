@@ -411,17 +411,17 @@ const GOODS = [
         {
           id: 3,
           src: "https://cdn.tiramisuerp.com/s3.tehnoplus.me/269507_13757.jpg",
-          class: "no-bg"
+          class: "bg"
         },
         {
           id: 4,
           src: "https://cdn.tiramisuerp.com/s3.tehnoplus.me/269515_13757.jpg",
-          class: "no-bg"
+          class: "bg"
         },
         {
           id: 5,
           src: "https://cdn.tiramisuerp.com/s3.tehnoplus.me/269518_13757.jpg",
-          class: "no-bg"
+          class: "bg"
         },
       ],
       img: "https://gmedia.playstation.com/is/image/SIEPDC/playstation-5-with-dualsense-front-product-shot-01-ps5-en-30jul20?$native--t$",
