@@ -63,28 +63,28 @@ const GOODS = [
         },
         {
           id: 2,
-          src: "https://static.tp-link.com/2_normal_1576202248870m.jpg",
+          src: "https://content2.rozetka.com.ua/goods/images/big/238702817.jpg",
           class: "no-bg"
         },
         {
           id: 3,
-          src: "https://static.tp-link.com/3_normal_1576202260556a.jpg",
+          src: "https://content2.rozetka.com.ua/goods/images/big/238702819.jpg",
           class: "no-bg"
         },
         {
           id: 4,
-          src: "https://static.tp-link.com/4_normal_1576202274947n.jpg",
+          src: "https://content.rozetka.com.ua/goods/images/big/238702821.jpg",
           class: "no-bg"
         },
         {
           id: 5,
-          src: "https://static.tp-link.com/5_normal_1576202289585c.jpg",
+          src: "https://7745.by/sites/default/files/imagecache/card_big_image/products/6-6494af015ba014a384d5367ee76ef54b.jpg",
           class: "no-bg"
         },
         {
           id: 6,
-          src: "https://static.tp-link.com/7_normal_1576202693442p.jpg",
-          class: "no-bg"
+          src: "https://th.bing.com/th/id/R.1cdf59757d18fe42d12839a9ee2dc1bc?rik=SthF5Kbniv6sAw&pid=ImgRaw&r=0",
+          class: "bg"
         },
       ],
       img: "https://www.multicom.me/Katalozi/Slike/Velike/77942-17b0fb02-87f8-4667-aa4b-41f5e1c8870b.jpg",
