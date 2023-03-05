@@ -1,0 +1,421 @@
+{
+  "goods": [
+    {
+      "counter": 0,
+      "favorite": false,
+      "id": "1",
+      "name": "SYNOLOGY NAS DISK STATION DS1520",
+      "descr": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati quam iusto omnis inventore ",
+      "images": [
+        {
+          "id": 1,
+          "imageUrl": "synology1.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 2,
+          "imageUrl": "synology2.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 3,
+          "imageUrl": "synology3.webp",
+          "classes": "no-bg"
+        },
+        {
+          "id": 4,
+          "imageUrl": "synology4.jpg",
+          "classes": "bg"
+        },
+        {
+          "id": 5,
+          "imageUrl": "synology5.jpg",
+          "classes": "bg"
+        },
+        {
+          "id": 6,
+          "imageUrl": "synology6.webp",
+          "classes": "bg"
+        }
+      ],
+      "img": "https://www.mainframe.co.me/modules/uploader/uploads/s_product/pictures/synology-nas-disk-station-ds1520--0.jpg",
+      "price": "677",
+      "category": ["gadgets", "computing"],
+      "sale": "20"
+    },
+    {
+      "counter": 0,
+      "favorite": false,
+      "id": "2",
+      "name": "TP-LINK Archer C80",
+      "descr": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati quam iusto omnis inventore ",
+      "images": [
+        {
+          "id": 1,
+          "imageUrl": "tp-link1.webp",
+          "classes": "no-bg"
+        },
+        {
+          "id": 2,
+          "imageUrl": "tp-link2.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 3,
+          "imageUrl": "tp-link3.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 4,
+          "imageUrl": "tp-link4.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 5,
+          "imageUrl": "tp-link5.jpg",
+          "classes": "no-bg"
+        }
+      ],
+      "img": "https://www.multicom.me/Katalozi/Slike/Velike/77942-17b0fb02-87f8-4667-aa4b-41f5e1c8870b.jpg",
+      "price": "250",
+      "category": ["computing"],
+      "sale": "0"
+    },
+    {
+      "counter": 0,
+      "favorite": false,
+      "id": "3",
+      "name": "Apple MacBook Air 13",
+      "descr": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati quam iusto omnis inventore ",
+      "images": [
+        {
+          "id": 1,
+          "imageUrl": "macbook1.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 2,
+          "imageUrl": "macbook2.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 3,
+          "imageUrl": "macbook3.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 4,
+          "imageUrl": "macbook4.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 5,
+          "imageUrl": "macbook5.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 6,
+          "imageUrl": "macbook6.jpg",
+          "classes": "no-bg"
+        }
+      ],
+      "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-macbook-air-silver-m1-202010?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1634145618000",
+      "price": "1029",
+      "category": ["computing"],
+      "sale": "0"
+    },
+    {
+      "counter": 0,
+      "favorite": false,
+      "id": "4",
+      "name": "Xiaomi Mi 4K Laser Projector 150",
+      "descr": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati quam iusto omnis inventore ",
+      "images": [
+        {
+          "id": 1,
+          "imageUrl": "projector1.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 2,
+          "imageUrl": "projector2.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 3,
+          "imageUrl": "projector3.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 4,
+          "imageUrl": "projector4.jpg",
+          "classes": "bg"
+        },
+        {
+          "id": 5,
+          "imageUrl": "projector5.jpg",
+          "classes": "bg"
+        }
+      ],
+      "img": "https://www.tradeinn.com/f/13783/137832713/xiaomi-mi-4k-laser-projector-150.jpg",
+      "price": "2112",
+      "category": ["tv"],
+      "sale": "40"
+    },
+    {
+      "counter": 0,
+      "favorite": false,
+      "id": "5",
+      "name": "Canon EOS R",
+      "descr": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati quam iusto omnis inventore ",
+      "images": [
+        {
+          "id": 1,
+          "imageUrl": "canon1.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 2,
+          "imageUrl": "canon2.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 3,
+          "imageUrl": "canon3.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 4,
+          "imageUrl": "canon4.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 5,
+          "imageUrl": "canon5.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 6,
+          "imageUrl": "canon6.jpg",
+          "classes": "no-bg"
+        }
+      ],
+      "img": "https://static.bhphoto.com/images/multiple_images/images500x500/1544446886_IMG_1107948.jpg",
+      "price": "1624",
+      "category": ["photo"],
+      "sale": "10"
+    },
+    {
+      "counter": 0,
+      "favorite": false,
+      "id": "11",
+      "name": "Amazfit T-Rex Pro",
+      "descr": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati quam iusto omnis inventore ",
+      "images": [
+        {
+          "id": 1,
+          "imageUrl": "amazfit1.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 2,
+          "imageUrl": "amazfit2.jpg",
+          "classes": "bg"
+        },
+        {
+          "id": 3,
+          "imageUrl": "amazfit3.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 4,
+          "imageUrl": "amazfit4.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 5,
+          "imageUrl": "amazfit5.jpg",
+          "classes": "bg"
+        }
+      ],
+      "img": "https://www.shopkees.com/cdn/images/1000/4655964666_1627621927.jpg",
+      "price": "135",
+      "category": ["gadgets"],
+      "sale": "15"
+    },
+    {
+      "counter": 0,
+      "favorite": false,
+      "id": "21",
+      "name": "Valve Index VR KIT",
+      "descr": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati quam iusto omnis inventore ",
+      "images": [
+        {
+          "id": 1,
+          "imageUrl": "vr-kit1.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 2,
+          "imageUrl": "vr-kit2.jpg",
+          "classes": "bg"
+        },
+        {
+          "id": 3,
+          "imageUrl": "vr-kit3.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 4,
+          "imageUrl": "vr-kit4.jpg",
+          "classes": "no-bg"
+        }
+      ],
+      "img": "https://m.media-amazon.com/images/I/61rt14PIodL.jpg",
+      "price": "1489",
+      "category": ["gadgets", "computing"],
+      "sale": "10"
+    },
+    {
+      "counter": 0,
+      "favorite": false,
+      "id": "31",
+      "name": "JBL Charge 4",
+      "descr": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati quam iusto omnis inventore ",
+      "images": [
+        {
+          "id": 1,
+          "imageUrl": "jbl1.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 2,
+          "imageUrl": "jbl2.jpg",
+          "classes": "bg"
+        },
+        {
+          "id": 3,
+          "imageUrl": "jbl3.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 4,
+          "imageUrl": "jbl4.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 5,
+          "imageUrl": "jbl5.jpg",
+          "classes": "bg"
+        }
+      ],
+      "img": "https://m.media-amazon.com/images/I/813GAqvZQlL._SL1500_.jpg",
+      "price": "135",
+      "category": ["gadgets"],
+      "sale": "10"
+    },
+    {
+      "counter": 0,
+      "favorite": false,
+      "id": "41",
+      "name": "XD Design Bobby Hero XL",
+      "descr": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati quam iusto omnis inventore ",
+      "images": [
+        {
+          "id": 1,
+          "imageUrl": "XD-Design1.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 2,
+          "imageUrl": "XD-Design2.png",
+          "classes": "bg"
+        },
+        {
+          "id": 3,
+          "imageUrl": "XD-Design3.png",
+          "classes": "no-bg"
+        },
+        {
+          "id": 4,
+          "imageUrl": "XD-Design4.png",
+          "classes": "no-bg"
+        },
+        {
+          "id": 5,
+          "imageUrl": "XD-Design5.png",
+          "classes": "no-bg"
+        },
+        {
+          "id": 6,
+          "imageUrl": "XD-Design6.png",
+          "classes": "no-bg"
+        }
+      ],
+      "img": "https://ae01.alicdn.com/kf/U895b8ffc37974b5d862ecc663cb2347fY/Backpack-XD-Design-Bobby-hero-XL.jpg",
+      "price": "124",
+      "category": ["tourism"],
+      "sale": "20"
+    },
+    {
+      "counter": 0,
+      "favorite": false,
+      "id": "51",
+      "name": "Sony PlayStation 5",
+      "descr": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati quam iusto omnis inventore ",
+      "images": [
+        {
+          "id": 1,
+          "imageUrl": "PlayStation1.jpg",
+          "classes": "no-bg"
+        },
+        {
+          "id": 2,
+          "imageUrl": "PlayStation2.jpg",
+          "classes": "bg"
+        },
+        {
+          "id": 3,
+          "imageUrl": "PlayStation3.jpg",
+          "classes": "bg"
+        },
+        {
+          "id": 4,
+          "imageUrl": "PlayStation4.jpg",
+          "classes": "bg"
+        },
+        {
+          "id": 5,
+          "imageUrl": "PlayStation5.jpg",
+          "classes": "bg"
+        }
+      ],
+      "img": "https://gmedia.playstation.com/is/image/SIEPDC/playstation-5-with-dualsense-front-product-shot-01-ps5-en-30jul20?$native--t$",
+      "price": "731",
+      "category": ["gadgets", "computing"],
+      "sale": "20"
+    }
+  ],
+  "categories": [
+    {
+      "name": "gadgets",
+      "value": "Gadgets"
+    },
+    {
+      "name": "computing",
+      "value": "Computing"
+    },
+    {
+      "name": "photo",
+      "value": "Photo"
+    },
+    {
+      "name": "tourism",
+      "value": "Tourism"
+    },
+    {
+      "name": "tv",
+      "value": "TV"
+    }
+  ]
+}
